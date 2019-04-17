@@ -940,7 +940,7 @@ enable this to generate coverage report HTML files during build (same as site)
           <scope>test</scope>
         </dependency>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -967,7 +967,7 @@ enable this to generate coverage report HTML files during build (same as site)
       </build>
       <dependencies>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -996,7 +996,7 @@ enable this to generate coverage report HTML files during build (same as site)
            <version>${h2DriverVersion}</version>
        </dependency>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -1011,7 +1011,7 @@ enable this to generate coverage report HTML files during build (same as site)
       </activation>
       <dependencies>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -1036,7 +1036,7 @@ enable this to generate coverage report HTML files during build (same as site)
       </build>
       <dependencies>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc14</artifactId>
           <version>${oracle10DriverVersion}</version>
           <optional>true</optional>
@@ -1061,7 +1061,7 @@ enable this to generate coverage report HTML files during build (same as site)
       </build>
       <dependencies>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -1086,7 +1086,7 @@ enable this to generate coverage report HTML files during build (same as site)
       </build>
       <dependencies>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc14</artifactId>
           <version>${oracle10DriverVersion}</version>
           <optional>true</optional>
@@ -1111,7 +1111,7 @@ enable this to generate coverage report HTML files during build (same as site)
       </build>
       <dependencies>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -1140,7 +1140,7 @@ enable this to generate coverage report HTML files during build (same as site)
           <version>${postgresqlDriverVersion}</version>
         </dependency>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -1169,7 +1169,7 @@ enable this to generate coverage report HTML files during build (same as site)
           <version>${mysqlDriverVersion}</version>
         </dependency>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -1198,7 +1198,7 @@ enable this to generate coverage report HTML files during build (same as site)
           <version>${sqlServer41DriverVersion}</version>
         </dependency>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
@@ -1223,7 +1223,7 @@ enable this to generate coverage report HTML files during build (same as site)
       <!-- JH_TODO: db2 dependencies -->
       <dependencies>
         <dependency>
-          <groupId>com.oracle</groupId>
+          <groupId>oracle</groupId>
           <artifactId>ojdbc6</artifactId>
           <version>${oracle11DriverVersion}</version>
           <optional>true</optional>
